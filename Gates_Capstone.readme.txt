@@ -23,7 +23,7 @@ There are several parts to this project:
     b. conditions.csv
     c. symptoms.csv
     d. chronic_agg_fibro_binary.csv
-    e. chronic_agg_multiclass
+    e. chronic_agg_multiclass.csv
 
 3. A Scripts Folder (My Juypter Notebooks run much faster using scripts than long code within)
     a. data_aggregator.py
@@ -37,6 +37,8 @@ There are several parts to this project:
 
 6. A folder corresponding to each Jupyter notebook for storing images and figures
 
+7. A folder including the Streamlit Web App file and pickled model.
+
 
 Suggested order of interaction:
 
@@ -44,4 +46,5 @@ Suggested order of interaction:
 2. Gates_Flaredown Capstone_Final Report (for a broad overview)
 2. Notebooks in order (1, 2, 3, 4)
 3. Scripts on a need-by basis
+4. Streamlit App
 
