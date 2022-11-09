@@ -46,3 +46,5 @@ Suggested order of interaction:
 3. Scripts on a need-by basis
 4. Streamlit App
 
+Please feel free to check out a video demonstration of the project on the [BrainStation Hiring Graduates Page](#https://brainstation.io/hiring-brainstation-graduates). 
+
