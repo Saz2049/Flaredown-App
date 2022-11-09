@@ -1,7 +1,7 @@
 # Autoimmune Disease Prediction Capstone
 
-Author: Sarah Gates
-Contact: sarahgates22@gmail.com
+Author: Sarah Gates <br>
+Contact: sarahgates22@gmail.com <br>
 Date: September 2022
 
 Welcome traveler! This is the readme file for my BrainStation Capstone Project: Autoimmune Disease Prediction and Classification. Here I'll walk you through the 
@@ -46,5 +46,5 @@ Suggested order of interaction:
 3. Scripts on a need-by basis
 4. Streamlit App
 
-Please feel free to check out a video demonstration of the project on the [BrainStation Hiring Graduates Page](#https://brainstation.io/hiring-brainstation-graduates). 
+Please feel free to check out a video demonstration of the project on the [BrainStation Hiring Graduates Page](https://brainstation.io/hiring-brainstation-graduates). 
 
