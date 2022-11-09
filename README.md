@@ -4,9 +4,11 @@ Author: Sarah Gates <br>
 Contact: sarahgates22@gmail.com <br>
 Date: September 2022
 
-Welcome traveler! This is the readme file for my BrainStation Capstone Project: Autoimmune Disease Prediction and Classification. Here I'll walk you through the 
-different parts of the project, including what is included, where it is located, and the suggested order for interacting with it. Let's start with the different parts
-of the project:
+Welcome traveler! This is the readme file for my BrainStation Capstone Project: Autoimmune Disease Prediction and Classification. 
+
+In this project, I use supervised machine learning techniques (classification, decision tree, and KNN) to predict autoimmune disease diagnosis (binary and multiclass problems).
+
+Here I'll walk you through the  different parts of the project, including what is included, where it is located, and the suggested order for interacting with it. Let's start with the different parts of the project:
 
 There are several parts to this project: 
 
@@ -46,5 +48,5 @@ Suggested order of interaction:
 3. Scripts on a need-by basis
 4. Streamlit App
 
-Please feel free to check out a video demonstration of the project on the [BrainStation Hiring Graduates Page](https://brainstation.io/hiring-brainstation-graduates). 
+Please feel free to check out a video demonstration of the project on the [BrainStation Hiring Graduates Page](https://brainstation.io/hiring-brainstation-graduates)!
 
